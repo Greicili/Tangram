@@ -5,7 +5,7 @@
 **Unidade Curricular:** Programação Orientada a Objeto
 
 # Projeto:
-O projeto escolhido foi a implementação do **jogo Tangram**. 
+O projeto escolhido foi a implementação do **JOGO TANGRAM**. 
 
 O objetivo do jogo é construir imagens pré-determinadas de objetos, pessoas ou animais, a partir de um conjunto de formas geométricas disponibilizadas.
 
