@@ -1,0 +1,12 @@
+release/dragwidget.o
+release/main.o
+release/mainwindow.o
+release/pieceslist.o
+release/puzzlewidget.o
+release/sombra.o
+release/widget.o
+release/qrc_pieces.o
+release/moc_mainwindow.o
+release/moc_pieceslist.o
+release/moc_puzzlewidget.o
+release/moc_widget.o

@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>sombra.png</file>
+        <file>Imagem1.png</file>
+        <file>Imagem2.png</file>
+        <file>Imagem3.png</file>
+        <file>Imagem4.png</file>
+        <file>Imagem5.png</file>
+        <file>Imagem6.png</file>
+        <file>Imagem7.png</file>
+    </qresource>
+</RCC>
