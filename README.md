@@ -15,11 +15,15 @@ O objetivo do jogo é construir imagens pré-determinadas de objetos, pessoas ou
 ### Figura 02 - Esboço da tela do jogo
 ![image](https://github.com/Greicili/Tangram/assets/81031562/070f18c0-b7a6-4cd5-b19f-b005e8dbf4a7)
 
-### Figura 03 - Tela desenvolvida no QTCreator
+### Figura 03 - Diagrama de Classe
+![image](https://github.com/Greicili/Tangram/assets/81031562/0ac2e485-f560-4768-8d6c-d4d489fcdc21)
+
+### Figura 04 - Tela desenvolvida no QTCreator
 ![image](https://github.com/Greicili/Tangram/assets/81031562/63d814cd-0902-482e-ae76-605609f47508)
 
-### Figura 04 - Tangram completado
+### Figura 05 - Tangram completado
 ![image](https://github.com/Greicili/Tangram/assets/81031562/43cbe11d-e84c-4420-ba07-8769bcc43ef5)
+
 
 
 
