@@ -16,7 +16,7 @@ O objetivo do jogo é construir imagens pré-determinadas de objetos, pessoas ou
 ![image](https://github.com/Greicili/Tangram/assets/81031562/070f18c0-b7a6-4cd5-b19f-b005e8dbf4a7)
 
 ##  Figura 03 - Especificação do Caso de Uso
-![image](https://github.com/Greicili/Tangram/assets/81031562/2caae4b5-324a-4b0d-8dd0-40d9a9845ca5)
+![image](https://github.com/Greicili/Tangram/assets/81031562/37ba519c-cd3e-47ad-8ca1-f70fcf3757d3)
 
 ### Figura 04 - Diagrama de Classe
 ![image](https://github.com/Greicili/Tangram/assets/81031562/6493142e-980a-410d-9efb-be8217f78e37)
