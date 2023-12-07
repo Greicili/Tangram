@@ -15,8 +15,10 @@ O objetivo do jogo é construir imagens pré-determinadas de objetos, pessoas ou
 ### Figura 02 - Esboço da tela do jogo
 ![image](https://github.com/Greicili/Tangram/assets/81031562/070f18c0-b7a6-4cd5-b19f-b005e8dbf4a7)
 
-### Figura 03 - Esboço da tela de vitória
-![image](https://github.com/Greicili/Tangram/assets/81031562/06227a14-b476-41de-8453-a988bfb278b5)
+### Figura 03 - Tela desenvolvida no QTCreator
+![image](https://github.com/Greicili/Tangram/assets/81031562/63d814cd-0902-482e-ae76-605609f47508)
+
+
 
 
 
